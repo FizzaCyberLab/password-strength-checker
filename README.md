@@ -35,3 +35,13 @@ The program was tested with different password patterns and successfully identif
 ## Purpose
 
 This project was created as a beginner cybersecurity project to understand basic password security concepts and Python programming.
+## Screenshots
+
+### Strong Password
+![Strong Password](Screenshot%202026-08-15%20044721.png)
+
+### Weak Password
+![Weak Password](Screenshot%202026-08-15%20044928.png)
+
+### Medium Password
+![Medium Password](Screenshot%202026-08-15%20045042.png)
